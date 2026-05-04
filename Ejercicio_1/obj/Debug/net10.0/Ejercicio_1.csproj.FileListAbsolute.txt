@@ -1,0 +1,14 @@
+C:\Users\Asus\Documents\aaa\Fundamentos de la Programacion\Semana 7\Ejercicio_1\bin\Debug\net10.0\Ejercicio_1.exe
+C:\Users\Asus\Documents\aaa\Fundamentos de la Programacion\Semana 7\Ejercicio_1\bin\Debug\net10.0\Ejercicio_1.deps.json
+C:\Users\Asus\Documents\aaa\Fundamentos de la Programacion\Semana 7\Ejercicio_1\bin\Debug\net10.0\Ejercicio_1.runtimeconfig.json
+C:\Users\Asus\Documents\aaa\Fundamentos de la Programacion\Semana 7\Ejercicio_1\bin\Debug\net10.0\Ejercicio_1.dll
+C:\Users\Asus\Documents\aaa\Fundamentos de la Programacion\Semana 7\Ejercicio_1\bin\Debug\net10.0\Ejercicio_1.pdb
+C:\Users\Asus\Documents\aaa\Fundamentos de la Programacion\Semana 7\Ejercicio_1\obj\Debug\net10.0\Ejercicio_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Documents\aaa\Fundamentos de la Programacion\Semana 7\Ejercicio_1\obj\Debug\net10.0\Ejercicio_1.AssemblyInfoInputs.cache
+C:\Users\Asus\Documents\aaa\Fundamentos de la Programacion\Semana 7\Ejercicio_1\obj\Debug\net10.0\Ejercicio_1.AssemblyInfo.cs
+C:\Users\Asus\Documents\aaa\Fundamentos de la Programacion\Semana 7\Ejercicio_1\obj\Debug\net10.0\Ejercicio_1.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Documents\aaa\Fundamentos de la Programacion\Semana 7\Ejercicio_1\obj\Debug\net10.0\Ejercicio_1.dll
+C:\Users\Asus\Documents\aaa\Fundamentos de la Programacion\Semana 7\Ejercicio_1\obj\Debug\net10.0\refint\Ejercicio_1.dll
+C:\Users\Asus\Documents\aaa\Fundamentos de la Programacion\Semana 7\Ejercicio_1\obj\Debug\net10.0\Ejercicio_1.pdb
+C:\Users\Asus\Documents\aaa\Fundamentos de la Programacion\Semana 7\Ejercicio_1\obj\Debug\net10.0\Ejercicio_1.genruntimeconfig.cache
+C:\Users\Asus\Documents\aaa\Fundamentos de la Programacion\Semana 7\Ejercicio_1\obj\Debug\net10.0\ref\Ejercicio_1.dll
